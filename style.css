@@ -33,3 +33,54 @@
 .container{
     display: flex;
 }
+/* center */
+
+.center_top{
+    margin-top: 10px;
+    width: 40%;
+  
+}
+.home{
+    display: flex;
+    align-items: center;
+    
+}
+.home h3{
+    
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.home i{
+    margin-left: 360px;
+    
+}
+.second_top{
+    margin-right: 12px;
+    margin-left: 10px;
+}
+.second_top input{
+    border: none;
+}
+.second_top input:focus{
+    border-style: none;
+}
+.left_icon a{
+    background-color: #20a6f5;
+    line-height: -0.5;
+    margin-right: 7px;
+    border-radius: 25px;
+}
+.left_icon{
+    height: 40px;
+}
+.post_post{
+    margin-top: 12px;
+}
+.text{
+    color: #20a6f5;
+}
+.img{
+    width: 445px;
+    height: 250px;
+}
