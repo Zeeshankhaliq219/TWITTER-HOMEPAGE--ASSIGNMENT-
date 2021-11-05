@@ -84,3 +84,22 @@
     width: 445px;
     height: 250px;
 }
+  /* Right side */
+.right_side{
+    width: 17%;
+    margin-left: 17px;
+    margin-top: 9px;
+    
+    
+}
+.Search_tweet{
+    width: 270px;
+    margin-left: 22px;
+    border-radius: 25px;
+    background-color: #e8ecef;
+    border-style: none;
+    padding: 6px;
+}
+.cog{
+    color: #20a6f5;
+}
